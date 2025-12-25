@@ -3,7 +3,7 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange)
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![MobileNetV2](https://img.shields.io/badge/Model-MobileNetV2-green)
-![Status](https://img.shields.io/badge/Completed)
+![Status](https://img.shields.io/badge/Status-Deployment%20Ready-success)
 
 > **"A high-performance image classification system capable of identifying 14 different flower species using Transfer Learning with MobileNetV2 architecture, optimized for mobile deployment (TF-Lite)."**
 
