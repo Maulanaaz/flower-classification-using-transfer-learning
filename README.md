@@ -25,7 +25,7 @@ I utilized **MobileNetV2**, a pre-trained Convolutional Neural Network (CNN) ori
 
 * **Classes:** 14 Types of Flowers (e.g., Rose, Sunflower, Tulip, etc.)
 * **Preprocessing:** Images resized to `224x224` pixels to match MobileNetV2 input requirements.
-* **Tech Stack:** TensorFlow, Keras, NumPy, Matplotlib.
+* **Tech Stack:** TensorFlow, Keras, Matplotlib.
 
 ---
 
@@ -54,6 +54,16 @@ The model demonstrated robust performance on unseen data:
 | **Loss** | **0.31** | **0.22** |
 
 > (Note: The validation accuracy surpassing training accuracy suggests that the heavy Data Augmentation and Dropout layers effectively regularized the training process.)*
+
+**Model accuracy plot** :
+
+![model_accuracy](https://github.com/Maulanaaz/flower-classification-using-transfer-learning/blob/main/images/model_accuracy.png)
+
+**Model loss plot** :
+
+![model_loss](https://github.com/Maulanaaz/flower-classification-using-transfer-learning/blob/main/images/model_loss.png)
+
+
 
 ## 📂 File Structure
 ```text
