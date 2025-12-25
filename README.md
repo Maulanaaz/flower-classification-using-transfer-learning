@@ -54,3 +54,17 @@ The model demonstrated robust performance on unseen data:
 | **Loss** | **0.31** | **0.22** |
 
 > (Note: The validation accuracy surpassing training accuracy suggests that the heavy Data Augmentation and Dropout layers effectively regularized the training process.)*
+
+## 📂 File Structure
+```text
+flower-classification-using-transfer-learning/
+│
+├── images/                  # Prediction result
+│   ├── accuracy_plot.png
+│   └── sample_prediction.png
+├── notebook/
+│   └── Flower_Classification_TransferLearning.ipynb  # Main notebook
+│
+├── requirements.txt         # tensorflow, matplotlib, pillow, etc
+├── .gitignore               # .gitignore
+└── README.md                # Project explanation
