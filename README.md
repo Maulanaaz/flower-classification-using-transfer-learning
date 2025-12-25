@@ -1,6 +1,6 @@
 # 🌺 Flower Classification using MobileNetV2 (Transfer Learning)
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-2.20.0-orange)
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![MobileNetV2](https://img.shields.io/badge/Model-MobileNetV2-green)
 ![Status](https://img.shields.io/badge/Status-Deployment%20Ready-success)
